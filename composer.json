@@ -12,7 +12,6 @@
             "email": "963235273@qq.com"
         }
     ],
-    "minimum-stability" : "stable",
     "autoload": {
         "psr-4": {
             "WxPay\\": "/"
